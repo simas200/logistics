@@ -1,0 +1,10 @@
+---How to run the applicaiton---
+1. cd to backend
+2. npm run dev
+3. open localhost:4000 in browser
+
+--What is installed---
+1. Node.js
+2. Express
+3. Nodemon
+4. dotenv
