@@ -1,3 +1,4 @@
+//This is where you suppose to write your endpoints
 require('dotenv').config()
 const express = require('express')
 
